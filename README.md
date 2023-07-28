@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajeshbhasin
-- 👀 I’m interested in Automation
-- 🌱 I’m currently working on Python 
-- 💞️ I’m looking to collaborate on Automation projects
+- 👀 I’m interested in Frontend/Backend and Frameworks
+- 🌱 I’m currently working on Python and Javascript/React
 - 📫 How to reach me -rajesh045@gmail.com
 
 <!---
